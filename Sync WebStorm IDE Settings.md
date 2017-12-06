@@ -1,4 +1,4 @@
-** Sync WebStorm IDE Settings **
+# Sync WebStorm IDE Settings
 
 To setting up IDE settings sync, follow next steps:
 
