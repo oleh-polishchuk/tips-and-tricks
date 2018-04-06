@@ -19,4 +19,4 @@ The hex codes for...
 
 Here is a screenshot, for clarity.
 
-![picture alt](https://coderwall-assets-0.s3.amazonaws.com/uploads/picture/file/2677/Screen_Shot_2014-03-01_at_3.08.41_PM.png "iTerm Preferences")
+![picture alt](https://raw.githubusercontent.com/oleh-polishchuk/tips-and-tricks/master/assets/iterm-tips-%26-tricks__iterm-preferences-screenshot.png "iTerm Preferences")
