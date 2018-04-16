@@ -7,4 +7,4 @@ Tips &amp; Tricks which I use to make my life a little bit more comfortable
 
 * [iTerm tips & tricks](https://github.com/oleh-polishchuk/tips-and-tricks/blob/master/iTerm%20tips%20%26%20tricks.md)
 
-* [Initialize git core & submodule repos](https://github.com/oleh-polishchuk/tips-and-tricks/blob/master/init-git-repo-with-submodules/README.md)
+* [Initialize git core & submodule repos](https://github.com/oleh-polishchuk/tips-and-tricks/tree/master/init-git-repo-with-submodules)
