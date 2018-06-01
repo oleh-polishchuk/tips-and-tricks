@@ -12,3 +12,9 @@ Tips &amp; Tricks which I use to make my life a little bit more comfortable
 ### Run iPhone simulator on Mac Book
 
     open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator
+
+## Enable permission to access /server-status
+
+    sudo nano +370 /etc/httpd/conf/httpd.conf
+    
+    
