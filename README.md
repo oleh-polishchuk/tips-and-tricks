@@ -41,6 +41,8 @@ For instance, you can share this very question with the following URL:
 
     https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fstackoverflow.com%2Fq%2F20956229%2F1101509&picture=http%3A%2F%2Fwww.applezein.net%2Fwordpress%2Fwp-content%2Fuploads%2F2015%2F03%2Ffacebook-logo.jpg&title=A+nice+question+about+Facebook&quote=Does+anyone+know+if+there+have+been+recent+changes+which+could+have+suddenly+stopped+this+from+working%3F&description=Apparently%2C+the+accepted+answer+is+not+correct.
 
-Try it!
+### Testing
 
-I've built a tool which makes it easier to share URLs on Facebook with custom parameters. You can use it to generate your sharer.php link, just press the button and copy the URL from the tab that opens.
+[Facebook debug sharing](https://developers.facebook.com/tools/debug/sharing/)
+
+    https://developers.facebook.com/tools/debug/sharing/
