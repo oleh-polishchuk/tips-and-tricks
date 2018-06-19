@@ -46,3 +46,8 @@ For instance, you can share this very question with the following URL:
 [Facebook debug sharing](https://developers.facebook.com/tools/debug/sharing/)
 
     https://developers.facebook.com/tools/debug/sharing/
+    
+## MySQL - Increase Max Allowed Packet
+
+    SET GLOBAL max_allowed_packet=1073741824;
+
