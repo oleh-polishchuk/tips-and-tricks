@@ -20,3 +20,7 @@ for old in ./*.png; do
     mv -v "$old" "$new"
   done
 ``` 
+Check instance memory
+```
+top
+```
