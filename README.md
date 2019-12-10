@@ -9,6 +9,11 @@ Tips &amp; Tricks which I use to make my life a little bit more comfortable
 
 * [Initialize git core & submodule repos](https://github.com/oleh-polishchuk/tips-and-tricks/tree/master/init-git-repo-with-submodules)
 
+## Edit Fonts on Mac Book
+
+    Use programm Type 3.2 from "CR8 Software Solutions" to edit font family name, fix name issues, etc.
+    Link: https://www.cr8software.net/
+
 ### Run iPhone simulator on Mac Book
 
     open /Applications/Xcode.app/Contents/Developer/Applications/Simulator.app/Contents/MacOS/Simulator
