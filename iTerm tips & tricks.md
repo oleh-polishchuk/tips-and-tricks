@@ -20,3 +20,8 @@ The hex codes for...
 Here is a screenshot, for clarity.
 
 ![picture alt](https://raw.githubusercontent.com/oleh-polishchuk/tips-and-tricks/master/assets/iterm-tips-%26-tricks__iterm-preferences-screenshot.png "iTerm Preferences")
+
+## Using Alt/Cmd + Right/Left Arrow in iTerm
+
+Go to iTerm Preferences → Profiles, select your profile, then the Keys tab. Click Load Preset... and choose Natural Text Editing.
+
