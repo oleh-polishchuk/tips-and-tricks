@@ -20,6 +20,7 @@ The hex codes for...
 Here is a screenshot, for clarity.
 
 ![picture alt](https://raw.githubusercontent.com/oleh-polishchuk/tips-and-tricks/master/assets/iterm-tips-%26-tricks__iterm-preferences-screenshot.png "iTerm Preferences")
+![picture alt](https://raw.githubusercontent.com/oleh-polishchuk/tips-and-tricks/master/assets/Screenshot%202023-05-04%20at%2009.46.02.png "iTerm Preferences")
 
 ## Using Alt/Cmd + Right/Left Arrow in iTerm
 
