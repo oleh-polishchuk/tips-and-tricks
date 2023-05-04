@@ -25,3 +25,7 @@ Here is a screenshot, for clarity.
 
 Go to iTerm Preferences → Profiles, select your profile, then the Keys tab. Click Load Preset... and choose Natural Text Editing.
 
+### Update (Thu 4. May 2023)
+
+![picture alt](https://raw.githubusercontent.com/oleh-polishchuk/tips-and-tricks/master/assets/iterm-tips-%26-tricks__iterm-preferences-screenshot_2.png "iTerm Preferences")
+
